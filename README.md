@@ -1,2 +1,0 @@
-# esdk_ec_native_professional_java
-新建eSDK_EC3.0开源项目
